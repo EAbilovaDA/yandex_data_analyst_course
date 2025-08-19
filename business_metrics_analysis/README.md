@@ -15,4 +15,5 @@ Analyzed data from the entertainment app *Procrastinate Pro+*, which was experie
 
 **Outcome:** Discovered that high ad spend on inefficient channels was the primary cause of financial losses. Proposed redirecting the budget to more profitable channels to increase ROI.
 
-📊 **Tools used:** Python (Pandas, NumPy, Matplotlib, Seaborn), Jupyter Notebook
+📊 **Tools used:** Python (Pandas, NumPy, Matplotlib, Seaborn), Jupyter Notebook  
+[Русская версия](README_RU.md)

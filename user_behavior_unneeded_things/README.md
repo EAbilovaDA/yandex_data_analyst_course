@@ -10,4 +10,5 @@ The ambitious team behind the “Unneeded Things” service is looking for mobil
 
 **Outcome:** ✅ Discovered that user actions like clicking on recommendations and adding to favorites have a statistically significant impact on conversion to contact views. This allowed me to propose a more precise user segmentation for personalized marketing campaigns.  
 
-📊 **Tools used:** Python (Pandas, Matplotlib), Jupyter Notebook
+📊 **Tools used:** Python (Pandas, Matplotlib), Jupyter Notebook  
+📖 [Версия на русском](README_RU.md)

@@ -13,4 +13,6 @@ The analysis focuses on:
 	•	Revenue per user and payback period
 	•	Factors affecting customer retention and acquisition
 
+**Outcome:** Discovered that high ad spend on inefficient channels was the primary cause of financial losses. Proposed redirecting the budget to more profitable channels to increase ROI.
+
 📊 Tools used: Python (Pandas, Matplotlib, Numpy, Seaborn), Jupyter Notebook
